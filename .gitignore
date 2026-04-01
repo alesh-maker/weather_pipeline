@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .dbt/
 logs/
+.vscode/weather_pipeline/models/example/
